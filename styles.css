@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 200px auto;
+    text-align: center;
+    width: 800px;
+}
+
+.hola{
+    color: azure;
+    font-size: 50PX;
+    margin-block-end: 300px;
+}
+.exit{
+    background-color:  hsl(192, 100%, 9%);
+}
+.bt2{
+    padding: 20px;
+    font-size: 15px;
+    border: darkorange;
+    background: forestgreen;
+}
+
+label {
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Lato';
+    margin: 10px;
+}
+input {
+    border: 2px solid #ccc;
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: 'Lato';
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+form {
+    margin: 25px auto;
+    padding: 20px;
+    border: 5px solid #ccc;
+    width: 500px;
+    background-color: blueviolet;
+}
+div.form-element {
+    margin: 20px 0;
+}
+button {
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Lato';
+    font-weight: 100;
+    background: #FF52BF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+h2{
+    color: red;
+}
+
+
+
